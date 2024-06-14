@@ -1,6 +1,5 @@
-# nanoindentation_clustering
 
-Machine Learning Cluster detection in a Nanoindentation Dataset
+#Machine Learning Cluster Detection in a Nanoindentation Dataset
 
 This project explores various unsupervised learning algorithms to detect clusters in a shales nanoindentation dataset from the Paper[1] published in 2021. The dataset was provided by the paper's corresponding author, Professor Guoping Zhang, College of Engineering, UMass Amherst.
 
